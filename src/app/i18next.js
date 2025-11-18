@@ -38,7 +38,7 @@ There are also more budget-friendly options on Airbnb and Booking.com. If you ne
 If you’re planning to spend a few extra days in London, a centrally located accommodation might be a better fit.
 `,
         contactsText:
-          "If you have any organizational questions, feel free to reach out to us or our wedding planner, Zsu. If you’re planning to give a speech or prepare a special surprise, please get in touch with our master of ceremony, Krisztina. She’ll be happy to help bring your ideas to life and can translate your speech into German or Hungarian so everyone can enjoy it. For speeches, please send your text to Krisztina at least two weeks before the wedding so she has time to translate it.",
+          "If you have any organizational questions, feel free to reach out to us or our wedding planner, Daniel. If you’re planning to give a speech or prepare a special surprise, please get in touch with our master of ceremony, Jane. She’ll be happy to help bring your ideas to life and can translate your speech into German or Hungarian so everyone can enjoy it. For speeches, please send your text to Jane at least two weeks before the wedding so she has time to translate it.",
         eventOneTitle: "Welcome Reception",
         eventOneDescription: "Guests arrive and enjoy welcome drinks.",
         eventTwoTitle: "Ceremony",
@@ -93,7 +93,7 @@ Ha szeretnél közel lenni az esküvő helyszínéhez, ajánljuk a The Aquincum 
 A szálloda wellness-részleggel rendelkezik, és parkolás felár ellenében elérhető. A bejelentkezés 15:00 órától lehetséges, ne feledd, hogy az esküvő 16:00-kor kezdődik.
 Ha a hotel megtelt, kérjük, jelezd nekünk, és segítünk alternatív szállást találni a közelben.`,
         contactsText:
-          "Ha bármilyen szervezéssel kapcsolatos kérdésed van, bátran kereshetsz minket vagy az esküvőszervezőnket, Zsut. Ha beszéddel vagy valamilyen meglepetéssel készülsz, vedd fel a kapcsolatot a ceremóniamesterünkkel, Krisztinával. Ő örömmel segít megvalósítani az ötleteidet, és a beszéded lefordításában németre vagy magyarra is segíthet, hogy mindenki élvezhesse azt. A beszédek szövegét kérjük, küldd el Krisztinának legalább két héttel az esküvő előtt, hogy legyen ideje lefordítani.",
+          "Ha bármilyen szervezéssel kapcsolatos kérdésed van, bátran kereshetsz minket vagy az esküvőszervezőnket, Daniel. Ha beszéddel vagy valamilyen meglepetéssel készülsz, vedd fel a kapcsolatot a ceremóniamesterünkkel, Jane-nel. Ő örömmel segít megvalósítani az ötleteidet, és a beszéded lefordításában németre vagy magyarra is segíthet, hogy mindenki élvezhesse azt. A beszédek szövegét kérjük, küldd el Jane-nek legalább két héttel az esküvő előtt, hogy legyen ideje lefordítani.",
         eventOneTitle: "Vendégfogadás",
         eventOneDescription:
           "A vendégeket üdvözlőitalokkal és falatokkal várjuk.",
@@ -148,7 +148,7 @@ Ha a hotel megtelt, kérjük, jelezd nekünk, és segítünk alternatív száll�
         accommodationDescription: `Bitte bucht eure Unterkunft individuell nach euren eigenen Vorlieben. Wenn ihr gerne in der Nähe der Hochzeitslocation übernachten möchtet, empfehlen wir The Aquincum Hotel. Es verfügt über einen Wellnessbereich und bietet Parkplätze gegen Aufpreis. Der Check-in ist ab 15:00 Uhr möglich, bitte beachtet, dass die Feierlichkeiten um 16:00 Uhr beginnen.
 Günstigere Optionen findet ihr auch auf Airbnb oder Booking.com. Wenn ihr Hilfe bei der Organisation oder Buchung braucht, meldet euch einfach bei uns. Wenn ihr plant, noch ein paar Tage in London zu bleiben, ist eine zentral gelegene Unterkunft die bessere Wahl..`,
         contactsText:
-          "Wenn ihr organisatorische Fragen habt, wendet euch gerne an uns oder unsere Hochzeitsplanerin Zsu. Wenn ihr eine Rede halten oder eine besondere Überraschung vorbereiten möchtet, kontaktiert bitte unsere Hochzeitsmoderatorin Krisztina. Sie hilft euch dabei, eure Ideen umzusetzen und kann eure Rede ins Deutsche oder Ungarische übersetzen. Bitte sendet die Rede spätestens zwei Wochen vor der Hochzeit an Krisztina, damit genug Zeit für die Übersetzung bleibt.",
+          "Wenn ihr organisatorische Fragen habt, wendet euch gerne an uns oder unsere Hochzeitsplanerin Daniel. Wenn ihr eine Rede halten oder eine besondere Überraschung vorbereiten möchtet, kontaktiert bitte unsere Hochzeitsmoderatorin Jane. Sie hilft euch dabei, eure Ideen umzusetzen und kann eure Rede ins Deutsche oder Ungarische übersetzen. Bitte sendet die Rede spätestens zwei Wochen vor der Hochzeit an Jane, damit genug Zeit für die Übersetzung bleibt.",
         eventOneTitle: "Empfang",
         eventOneDescription:
           "Empfang mit Willkommensgetränken und kleinen Häppchen.",

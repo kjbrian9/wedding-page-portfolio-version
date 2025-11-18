@@ -4,7 +4,6 @@ import SecondSection from "./components/SecondSection";
 import EventSection from "./components/EventSection";
 import InfoSection from "./components/InfoSection";
 import InfoSectionTwo from "./components/InfoSectionTwo";
-import WelcomeSection1 from "./components/WelcomeSection1";
 import Rsvp from "./components/Rsvp";
 import { Poppins } from "next/font/google";
 import "./i18next";
@@ -73,7 +72,7 @@ export default function Home() {
           onClick={() => i18n.changeLanguage("hu")}
         ></button>
       </div>
-      <WelcomeSection1> </WelcomeSection1>
+      <WelcomeSection> </WelcomeSection>
       <SecondSection></SecondSection>
       <EventSection></EventSection>
       <InfoSection></InfoSection>

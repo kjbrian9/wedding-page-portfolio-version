@@ -16,7 +16,7 @@ function ContactsSection() {
         <div className="flex flex-col items-center lg: mb-0 rounded-xl py-5 px-4 shadow-md w-75">
           <h1 className="mb-2 font-semibold text-xl">Tomas</h1>
           <a
-            href="mailto:haraszthy.kitty@gmail.com"
+            href="mailto:brian.julius.k@gmail.com"
             className="border border-[1.5px] rouded text-sm px-3 py-1 rounded-sm mb-5 cursor-pointer duration-105 hover:scale-105"
           >
             Email tomas@gmail.com
@@ -26,7 +26,7 @@ function ContactsSection() {
         <div className="flex flex-col items-center  lg: mb-0 rounded-xl py-5 px-4 shadow-md w-75">
           <h1 className="mb-2 font-semibold text-xl">Jane</h1>
           <a
-            href="mailto:julia.mueller.98@web.de"
+            href="mailto:brian.julius.k@gmail.com"
             className="border border-[1.5px] rouded text-sm px-3 py-1 rounded-sm mb-5 cursor-pointer duration-105 hover:scale-105"
           >
             Email jane.98@web.de
@@ -43,7 +43,7 @@ function ContactsSection() {
           <h1 className="font-semibold text-xl">Daniel</h1>
           <h1 className="text-gray-700 mb-2">{t("weddingPlanner")}</h1>
           <a
-            href="mailto:hello@szivarvanyeskuvo.hu"
+            href="mailto:brian.julius.k@gmail.com"
             className="border border-[1.5px] rouded text-sm px-3 py-1 rounded-sm mb-5 cursor-pointer duration-105 hover:scale-105"
           >
             Email Daniel@wedding.hu

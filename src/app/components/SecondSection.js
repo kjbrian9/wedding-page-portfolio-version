@@ -9,7 +9,7 @@ function SecondSection() {
         <img
           src="/CoupleOne.jpg"
           className="w-80 lg:w-120 rounded-xl hover:scale-105 duration-300"
-          alt="Kitty 2"
+          alt="Couple image 1"
         />
         <div className="lg:w-180 text-black text-center lg:text-start flex flex-col items-center lg:items-start justify-center">
           <h1 className="font-[Allura] text-4xl">{t("sectionTwoTitle")}</h1>
@@ -18,12 +18,12 @@ function SecondSection() {
             <img
               src="/CoupleTwo.jpg"
               className="w-40 lg:w-80 rounded-xl hover:scale-105 duration-300"
-              alt="Kitty 4"
+              alt="Couple image 2"
             />
             <img
               src="/CoupleThree.jpg"
               className="w-40 lg:w-80 rounded-xl hover:scale-105 duration-300"
-              alt="Kitty 5"
+              alt="Couple image 3"
             />
           </div>
         </div>
