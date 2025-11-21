@@ -7,11 +7,9 @@ function ContactsSection() {
       id="contacts-section"
     >
       <h1 className="text-black text-[80px] font-semibold font-[Allura]">
-        Contacts
+        {t("contactsTitle")}
       </h1>
-      <h1 className="mb-10">
-        Feel free to contact us if you have any questions
-      </h1>
+      <h1 className="mb-10">{t("contactsSubTitle")}</h1>
       <div className="flex flex-col lg:flex-row gap-2 mb-15 gap-10">
         <div className="flex flex-col items-center lg: mb-0 rounded-xl py-5 px-4 shadow-md w-75">
           <h1 className="mb-2 font-semibold text-xl">Tomas</h1>
