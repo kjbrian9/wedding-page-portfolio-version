@@ -16,7 +16,7 @@ function InfoSection() {
       id="location-section"
       className="flex min-h-screen flex-col items-center"
     >
-      <div className="flex min-h-screen flex-col md:flex-row items-center justify-center w-full text-black gap-20 lg:gap-50">
+      <div className="flex min-h-screen flex-col md:flex-row items-center justify-center w-full text-black gap-10 xl:gap-50">
         <div className="flex flex-col items-center ">
           <h1 className="text-[90px] mb-5 font-[Allura] 2xl:text-[120px]">
             {t("locationTitle")}
@@ -32,7 +32,7 @@ function InfoSection() {
             Google Maps
           </a>
         </div>
-        <div className="w-80 md:w-100 lg:w-170 2xl:w-240 text-center">
+        <div className="w-80 md:w-100 lg:w-170 2xl:w-240     text-center">
           <img src="/LocationOne.jpg" className="mb-5 rounded-xl"></img>
         </div>
       </div>
