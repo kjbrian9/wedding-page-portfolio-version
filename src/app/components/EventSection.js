@@ -14,10 +14,10 @@ function EventSection() {
         <div className="absolute inset-0 bg-black/50"></div>
         <div className="flex-col gap-13 relative items-center justify-center flex">
           <div className="w-80 xl:w-120 text-black text-center items-center justify-center flex flex-col">
-            <h1 className="mt-10  font-[Allura] text-5xl text-white border-b-2 w-80 mb-3">
+            <h1 className="mt-10  font-[Allura] text-5xl 2xl:text-[80px] text-white border-b-2 w-80 2xl:w-120 mb-3">
               {t("eventOrder")}
             </h1>
-            <h1 className="text-white sm:w-80 md:w-120">
+            <h1 className="text-white sm:w-80 md:w-120 2xl:w-160 2xl:text-2xl">
               {t("eventSectionSubheading")}
             </h1>
           </div>

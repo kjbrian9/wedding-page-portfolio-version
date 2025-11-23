@@ -12,13 +12,15 @@ function WelcomeSection() {
   const { t } = useTranslation();
   return (
     <div className="mb-20 lg:mb-0 flex min-h-screen flex-col items-center ">
-      <h1 className="text-3xl md:text-[40px] font-[Allura] ">Tomas & Jane</h1>
+      <h1 className="text-3xl md:text-[40px] font-[Allura] 2xl:text-[80px]">
+        Tomas & Jane
+      </h1>
       <div className="flex flex-row gap-4 lg:gap-10 mb-1">
         <button
           onClick={() => {
             scrollToTarget("event-section");
           }}
-          className="text-sm duration-105 hover:scale-105 cursor-pointer"
+          className="text-sm 2xl:text-xl duration-105 hover:scale-105 cursor-pointer "
         >
           Events
         </button>
@@ -32,7 +34,7 @@ function WelcomeSection() {
         </button>
         <button
           onClick={() => scrollToTarget("info-section")}
-          className="text-sm duration-105 hover:scale-105 cursor-pointer"
+          className="text-sm 2xl:text-xl duration-105 hover:scale-105 cursor-pointer"
         >
           Info
         </button>
@@ -40,7 +42,7 @@ function WelcomeSection() {
           onClick={() => {
             scrollToTarget("rsvp-section");
           }}
-          className="text-sm duration-105 hover:scale-105 cursor-pointer"
+          className="text-sm 2xl:text-xl duration-105 hover:scale-105 cursor-pointer"
         >
           RSVP
         </button>
@@ -48,7 +50,7 @@ function WelcomeSection() {
           onClick={() => {
             scrollToTarget("contacts-section");
           }}
-          className="text-sm  duration-105 hover:scale-105 cursor-pointer"
+          className="text-sm 2xl:text-xl duration-105 hover:scale-105 cursor-pointer"
         >
           Contacts
         </button>
@@ -61,12 +63,14 @@ function WelcomeSection() {
         <Countdown targetDate="2026-09-05T15:00:00"></Countdown>
       </div>
       <div className="flex flex-col items-center text-center z-100">
-        <h1 className="font-[Allura] text-5xl mb-1">
+        <h1 className="font-[Allura] text-5xl 2xl:text-[70px] mb-1">
           {t("gettingMarriedText")}
         </h1>
-        <h1 className=" -80 text-center lg:w-auto mb-5 ">{t("joinUsText")}</h1>
-        <span className="w-30 border-b mb-5"></span>
-        <h1>September 5, 2026</h1>
+        <h1 className=" -80 text-center lg:w-auto mb-5 2xl:text-2xl">
+          {t("joinUsText")}
+        </h1>
+        <span className="w-30 border-b mb-5 2xl:w-70"></span>
+        <h1 className="2xl:text-2xl">September 5, 2026</h1>
       </div>
     </div>
   );

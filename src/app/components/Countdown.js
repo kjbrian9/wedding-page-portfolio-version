@@ -65,10 +65,12 @@ export default function Countdown({ targetDate }) {
       ].map(({ value, key }) => (
         <div
           key={key}
-          className="flex flex-col gap-1 bg-white w-18 h-18 md:w-20 md:h-20 text-center items-center justify-center rounded-2xl shadow-md"
+          className="flex flex-col gap-1 bg-white w-18 h-18 md:w-20 2xl:w-30 md:h-20  2xl:h-30 text-center items-center justify-center rounded-2xl shadow-md"
         >
-          <h1 className="text-[#CFA970]">{value}</h1>
-          <h1 className="text-gray-600 text-sm md:text-base">{t(key)}</h1>
+          <h1 className="text-[#CFA970] 2xl:text-2xl">{value}</h1>
+          <h1 className="text-gray-600 text-sm md:text-base 2xl:text-2xl">
+            {t(key)}
+          </h1>
         </div>
       ))}
     </div>

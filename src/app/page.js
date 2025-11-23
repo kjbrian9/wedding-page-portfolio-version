@@ -60,15 +60,15 @@ export default function Home() {
     <div className="bg-white text-black font-[Poppins]">
       <div className="absolute  right-2 flex flex-row gap-2 items-center mt-3 xl:mt-5">
         <button
-          className="h-6 w-6 lg:h-8 lg:w-8 text-white font-semibold cursor-pointer bg-[url(/UKflag.svg)] bg-contain bg-no-repeat duration-105 hover:scale-105 "
+          className="h-6 w-6 2xl:h-12 2xl:w-12 lg:h-8 lg:w-8 text-white font-semibold cursor-pointer bg-[url(/UKflag.svg)] bg-contain bg-no-repeat duration-105 hover:scale-105 "
           onClick={() => i18n.changeLanguage("en")}
         ></button>
         <button
-          className="h-6 w-6 lg:h-8 lg:w-8  text-white font-semibold cursor-pointer bg-[url(/DEflag.svg)] bg-contain bg-no-repeat duration-105 hover:scale-105"
+          className="h-6 w-6 2xl:h-12 2xl:w-12 lg:h-8 lg:w-8  text-white font-semibold cursor-pointer bg-[url(/DEflag.svg)] bg-contain bg-no-repeat duration-105 hover:scale-105"
           onClick={() => i18n.changeLanguage("de")}
         ></button>
         <button
-          className="h-6 w-6 lg:h-8 lg:w-8  text-white font-semibold cursor-pointer bg-[url(/HUflag.svg)] bg-contain bg-no-repeat duration-105 hover:scale-105"
+          className="h-6 w-6 2xl:h-12 2xl:w-12 lg:h-8 lg:w-8  text-white font-semibold cursor-pointer bg-[url(/HUflag.svg)] bg-contain bg-no-repeat duration-105 hover:scale-105"
           onClick={() => i18n.changeLanguage("hu")}
         ></button>
       </div>
